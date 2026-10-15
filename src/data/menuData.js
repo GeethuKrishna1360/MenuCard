@@ -110,7 +110,7 @@ export const MENU_ITEMS = [
     spiceLevel: 1,
     prepTime: "12-15 mins",
     calories: "410 kcal",
-    image: "https://images.unsplash.com/photo-1567184109187-5c5890b0a880?auto=format&fit=crop&w=800&q=80",
+    image: "/images/paneer_nirvana.jpg",
     description: "Vegetarian interpretation of the signature Nirvana. Malai paneer slabs marinated with turmeric and pepper, pan-seared and gently simmered on banana leaf in thick fragrant coconut milk with curry leaves.",
     story: "Created so vegetarian patrons could experience the transcendent harmony of Chef Pillai's coconut milk & banana leaf reduction.",
     tags: ["Vegetarian Delight", "Signature"],
@@ -132,7 +132,7 @@ export const MENU_ITEMS = [
     spiceLevel: 2,
     prepTime: "12 mins",
     calories: "340 kcal",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    image: "/images/mushroom_corn_nirvana.jpg",
     description: "Earthy button and shiitake mushrooms paired with crisp baby corn, sautéed with shallots and simmered in velvety coconut milk inside the banana leaf vessel.",
     tags: ["Vegan Option", "Healthy"],
     portion: "Serves 1-2"
@@ -190,7 +190,7 @@ export const MENU_ITEMS = [
     spiceLevel: 1,
     prepTime: "10 mins",
     calories: "320 kcal",
-    image: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    image: "/images/pazham_pori_chaat.jpg",
     description: "Crispy Kerala ripe Nendran banana fritters tossed with sweet date chutney, hung spiced yoghurt, pomegranate pearls, chopped shallots, mint and crunchy sev.",
     story: "A delightful union of Kerala's favorite tea-time snack 'Pazham Pori' with the vibrancy of North Indian street chaat.",
     tags: ["Sweet & Savory", "Vegetarian Star"],
@@ -209,7 +209,7 @@ export const MENU_ITEMS = [
     spiceLevel: 2,
     prepTime: "12 mins",
     calories: "450 kcal",
-    image: "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+    image: "/images/meen_thenga_porippu.jpg",
     description: "Boneless cubes of fresh catch crusted with coarse grated fresh coconut, crushed black pepper, and curry leaf paste, fried until golden and crisp.",
     tags: ["Crispy", "Bar Snack Special"],
     portion: "8 Pieces"
@@ -227,7 +227,7 @@ export const MENU_ITEMS = [
     spiceLevel: 3,
     prepTime: "14 mins",
     calories: "390 kcal",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+    image: "/images/calicut_pepper_squid_roast.jpg",
     description: "Fresh calamari rings flash-sautéed in iron skillet with pearl onions, crushed Tellicherry black pepper, fennel powder, and fried coconut chips.",
     tags: ["Spicy Roast", "Seafood"],
     portion: "Serves 1-2"
@@ -245,7 +245,7 @@ export const MENU_ITEMS = [
     spiceLevel: 3,
     prepTime: "15 mins",
     calories: "380 kcal",
-    image: "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+    image: "/images/kanthari_paneer_tikka.jpg",
     description: "Soft cottage cheese marinated in a fiery paste of native bird's eye chilies (Kanthari), mint, and yogurt, chargrilled with bell peppers and onions.",
     tags: ["Fiery Hot", "Tandoor & Claypot"],
     portion: "6 Slices"
@@ -265,7 +265,7 @@ export const MENU_ITEMS = [
     spiceLevel: 3,
     prepTime: "15 mins",
     calories: "440 kcal",
-    image: "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+    image: "/images/ashtamudi_fish_curry.jpg",
     description: "Authentic Kollam Ashtamudi Lake recipe. Thick seer fish steaks cooked in a fiery red gravy infused with smoked Malabar tamarind (Kudampuli), fenugreek, and coconut oil.",
     story: "Served in an unglazed clay pot that enhances the deep smoky sourness of the Kudampuli as it matures.",
     tags: ["Claypot Classic", "Spicy & Sour"],
@@ -356,7 +356,7 @@ export const MENU_ITEMS = [
     spiceLevel: 2,
     prepTime: "12 mins",
     calories: "320 kcal",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    image: "/images/ulli_theeyal.jpg",
     description: "Whole pearl shallots gently cooked in an intensely dark, smoky paste of deeply roasted coconut, coriander, fenugreek, and dried red chillies.",
     tags: ["Vegetarian Heritage", "Aromatic"],
     portion: "Serves 2"
@@ -414,7 +414,7 @@ export const MENU_ITEMS = [
     spiceLevel: 0,
     prepTime: "5 mins",
     calories: "280 kcal",
-    image: "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+    image: "/images/nool_porotta.jpg",
     description: "Golden, flaky, multi-layered coiled flatbread handmade by master porotta chefs. Crispy on the outside, feather-soft inside.",
     tags: ["Kerala Must Have", "Freshly Made"],
     portion: "2 Pieces"
@@ -432,7 +432,7 @@ export const MENU_ITEMS = [
     spiceLevel: 0,
     prepTime: "5 mins",
     calories: "160 kcal",
-    image: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    image: "/images/lacy_appam.jpg",
     description: "Soft spongy center with delicate crispy lacy edges, made from fermented rice batter and fresh coconut milk.",
     tags: ["Best with Nirvana", "Gluten Free"],
     portion: "2 Pieces"
@@ -450,7 +450,7 @@ export const MENU_ITEMS = [
     spiceLevel: 0,
     prepTime: "8 mins",
     calories: "380 kcal",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    image: "/images/malabar_neychoru.jpg",
     description: "Delicate Jeerakasala rice cooked in pure Malabar cow ghee, infused with whole spices and topped with fried shallots, cashews, and raisins.",
     tags: ["Fragrant Rice", "Comfort Food"],
     portion: "Serves 1-2"
@@ -470,7 +470,7 @@ export const MENU_ITEMS = [
     spiceLevel: 2,
     prepTime: "10 mins",
     calories: "330 kcal",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    image: "/images/varutharacha_kadala_curry.jpg",
     description: "Black Bengal chickpeas cooked to perfection in a thick, fragrant gravy of deeply roasted coconut paste, crushed coriander, shallots, and fresh curry leaves.",
     tags: ["Kerala Classic", "High Protein"],
     portion: "Serves 2"
@@ -488,7 +488,7 @@ export const MENU_ITEMS = [
     spiceLevel: 1,
     prepTime: "12 mins",
     calories: "410 kcal",
-    image: "https://images.unsplash.com/photo-1567184109187-5c5890b0a880?auto=format&fit=crop&w=800&q=80",
+    image: "/images/paneer_green_peas_mappas.jpg",
     description: "Cottage cheese cubes and sweet green peas simmered in mild coriander coconut milk gravy with green chilies and vinegar splash.",
     tags: ["Mild & Creamy", "Kids Friendly"],
     portion: "Serves 2"
@@ -506,7 +506,7 @@ export const MENU_ITEMS = [
     spiceLevel: 1,
     prepTime: "10 mins",
     calories: "210 kcal",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    image: "/images/vazhapoo_payar_thoran.jpg",
     description: "Finely chopped organic banana blossoms stir-fried with red cow peas, freshly grated coconut, cumin, garlic, and cracked black pepper.",
     tags: ["Superfood", "Traditional Thoran"],
     portion: "Serves 2"
@@ -524,7 +524,7 @@ export const MENU_ITEMS = [
     spiceLevel: 1,
     prepTime: "8 mins",
     calories: "290 kcal",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    image: "/images/kappa_vevichathu.jpg",
     description: "Steamed mashed tapioca infused with turmeric, crushed garlic, cumin, and seasoned with a crackling mustard and coconut oil tadka.",
     tags: ["Soul Food", "Best with Fish Curry"],
     portion: "Serves 1-2"
@@ -563,7 +563,7 @@ export const MENU_ITEMS = [
     spiceLevel: 0,
     prepTime: "Ready to Serve",
     calories: "310 kcal",
-    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+    image: "/images/vathalappam.jpg",
     description: "Velvety spiced steamed custard made with pure Kitul palm jaggery, thick coconut milk, free-range eggs, cardamom, nutmeg, and cashew nuts.",
     tags: ["Heritage Custard", "Rich & Spiced"],
     portion: "1 Serving"
@@ -581,7 +581,7 @@ export const MENU_ITEMS = [
     spiceLevel: 0,
     prepTime: "Ready to Serve",
     calories: "220 kcal",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    image: "/images/elaneer_pudding.jpg",
     description: "Delicate and refreshing pudding made from sweet coconut water and tender coconut malai, lightly sweetened and chilled.",
     tags: ["Refreshing", "Light"],
     portion: "1 Glass"
